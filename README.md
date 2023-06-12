@@ -4,7 +4,7 @@ Introduction:
 
 The Coffee Shop Analytics project aimed to enhance the customer experience, analyze expenditures, and develop a targeted rewards program for a coffee shop. The project consisted of model training and data analysis with graph visualization.
 
-In the first part, we focused on model training. By leveraging regression analysis, we identified the factors that influenced customer wait times and expenditures. This analysis provided valuable insights into the coffee shop's operations and customer behavior. Through the regression model, we determined which variables had a significant impact on customer wait times and expenditures, helping the coffee shop understand the key drivers of these factors.
+In the first part, we focused on model training. By leveraging regression analysis, we identified the factors that influenced customer wait time and expenditures. This analysis provided valuable insights into the coffee shop's operations and customer behavior. Through the regression model, we determined which variables had a significant impact on customer wait times and expenditures, helping the coffee shop understand the key drivers of these factors.
 
 In the second part of the project, we performed in-depth data analysis and drew insightful graphs to further explore the dataset. By visualizing the data, we identified patterns, trends, and correlations that may not have been evident through numerical analysis alone. This visualization step provided a holistic understanding of the data, uncovering interesting points and potential areas for improvement. These visualizations served as a foundation for extracting meaningful insights and developing actionable recommendations for the coffee shop.
 
